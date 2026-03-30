@@ -1,5 +1,6 @@
 // resolucao do two sum, pelo que pesquisei minha solucao foi On^2
 #include <stdlib.h> // adicionei para tirar o problema do return null
+// comentario do arthur
 
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     
