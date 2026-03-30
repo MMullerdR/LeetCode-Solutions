@@ -1,4 +1,5 @@
-// resolucao do two sum, pelo que pesquisei minha solucao foi On^2 pois usa 2 for
+// resolucao do two sum, pelo que pesquisei minha solucao foi On^2
+#include <stdlib.h> // adicionei para tirar o problema do return null
 
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     
@@ -15,5 +16,5 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     }
 
     *returnSize = 0;
-    return NULL;
+    return NULL; //dá warning sem adicionar as bibliotecas
 }
