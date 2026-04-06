@@ -1,9 +1,9 @@
 ## Miguel Muller da Rosa
-## Matrícula: 25100780
 
 ---
 
 Cada pasta contém os arquivos e READMEs de cada problema (entradas testadas e submit do leetcode)
+
 As pastas estão divididas na seguinte forma:
 
 ---
