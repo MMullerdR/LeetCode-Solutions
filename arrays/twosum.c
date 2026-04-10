@@ -1,6 +1,6 @@
 // resolucao do two sum, pelo que pesquisei minha solucao foi On^2
 #include <stdlib.h> // adicionei para tirar o problema do return null
-// comentario do arthur
+#include <stdio.h>
 
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     
@@ -17,5 +17,15 @@ int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
     }
 
     *returnSize = 0;
-    return NULL; //dá warning sem adicionar as bibliotecas
+    return NULL; 
+}
+
+int main (){
+    int nums[10] = {10, 1, 2, 3, 4, 5, 6, 7, 8, 9};
+    int target = 14;
+    int returnSize = 2;
+    int *output = twoSum(nums, 10, target, &returnSize);
+
+    for(int i = 0; i < returnSize; i++)
+        printf("[%d]", output[i]);
 }
