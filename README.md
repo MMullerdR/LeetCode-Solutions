@@ -2,20 +2,20 @@
 
 ---
 
-Cada pasta contém os arquivos e READMEs de cada problema (entradas testadas e submit do leetcode)
-
+Cada pasta contém os arquivos do respectivo problema. 
 As pastas estão divididas na seguinte forma:
 
 ---
 
 - arrays
-  - romantointeger.c
-  - twoSum.c
+  - 1.twosum.c
+  - 13.romantointeger.c
+  - 9.palindromenumber.c
+  - 14.longestcommonprefix.c
+  - 26.remove-duplicates-from-sorted-array.c
+  - 27.remove-element.c
+  - 28.find-the-index-of-the-first-occurrence-in-a-string.c
+  - 125.valid-palindrome.c
 
-- strings
 - linked-list
-  - mergelists
-
-- trees
-- stack-queue
-- others
+  - 21.mergelists
