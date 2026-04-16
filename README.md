@@ -12,10 +12,11 @@ As pastas estão divididas na seguinte forma:
   - 13.romantointeger.c
   - 9.palindromenumber.c
   - 14.longestcommonprefix.c
-  - 26.remove-duplicates-from-sorted-array.c
-  - 27.remove-element.c
-  - 28.find-the-index-of-the-first-occurrence-in-a-string.c
-  - 125.valid-palindrome.c
+  - 26.removeduplicatesfromsortedarray.c
+  - 27.removeelement.c
+  - 28.findtheindexofthefirstoccurrenceinastring.c
+  - 125.validpalindrome.c
 
 - linked-list
+  - 206.reverselinkedlist
   - 21.mergelists
