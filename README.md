@@ -2,7 +2,10 @@
 
 ---
 
-Cada pasta contém os arquivos do respectivo problema. 
+Cada pasta contém os arquivos do respectivo problema.
+
+Dentro da pasta "Entrega", está uma pasta com o número respectivo daquela entrega, e dentro dela estão os arquivos do problema junto com o README.md do problema usado para gravação. 
+
 As pastas estão divididas na seguinte forma:
 
 ---
@@ -20,3 +23,8 @@ As pastas estão divididas na seguinte forma:
 - linked-list
   - 206.reverselinkedlist
   - 21.mergelists
+
+- Entregas
+  - simulado-trabalho-1
+    - 860.lemonadechange.c
+    - README.md
