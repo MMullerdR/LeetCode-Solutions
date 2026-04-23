@@ -9,6 +9,10 @@ Dentro da pasta "Entrega", está uma pasta com o número respectivo daquela entr
 As pastas estão divididas na seguinte forma:
 
 ---
+- Entregas
+  - simulado-trabalho-1
+    - 860.lemonadechange.c
+    - README.md
 
 - arrays
   - 1.twosum.c
@@ -24,7 +28,5 @@ As pastas estão divididas na seguinte forma:
   - 206.reverselinkedlist
   - 21.mergelists
 
-- Entregas
-  - simulado-trabalho-1
-    - 860.lemonadechange.c
-    - README.md
+- others
+  - 70.climbingstairs.c
