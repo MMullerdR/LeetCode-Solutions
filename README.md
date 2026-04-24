@@ -30,3 +30,5 @@ As pastas estão divididas na seguinte forma:
 
 - others
   - 70.climbingstairs.c
+  - 29.dividetwointegers.c - attempted but not completed
+  - 2833.furthestpointfromorigin.c
