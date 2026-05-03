@@ -29,6 +29,7 @@ As pastas estão divididas na seguinte forma:
   - 28.findtheindexofthefirstoccurrenceinastring.c
   - 58.lengthoflastword.c
   - 125.validpalindrome.c
+  - 796.rotatestring.c
 
 - linked-list
   - 21.mergetwosortedlists.c
