@@ -35,6 +35,9 @@ As pastas estão divididas na seguinte forma:
   - 21.mergetwosortedlists.c
   - 206.reverselinkedlist.c
 
+- binary-search
+  - 35.searchinsertposition.c
+
 - others
   - 29.dividetwointegers.c - attempted but not completed
   - 48.rotateimage.c
