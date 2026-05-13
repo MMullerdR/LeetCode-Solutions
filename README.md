@@ -42,4 +42,6 @@ As pastas estão divididas na seguinte forma:
   - 29.dividetwointegers.c - attempted but not completed
   - 48.rotateimage.c
   - 70.climbingstairs.c
+  - 155.minstack.c
+  - 225.implementstackusingqueues.c
   - 2833.furthestpointfromorigin.c
