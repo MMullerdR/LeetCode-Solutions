@@ -44,4 +44,5 @@ As pastas estão divididas na seguinte forma:
   - 70.climbingstairs.c
   - 155.minstack.c
   - 225.implementstackusingqueues.c
+  - 682.baseballgame.c
   - 2833.furthestpointfromorigin.c
