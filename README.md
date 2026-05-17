@@ -10,18 +10,24 @@ As pastas estão divididas na seguinte forma:
 
 ---
 - Entregas
+  -trabalho-2
+    - 503.nextgreaterelementII.exe
+    - 503.nextgreaterelementII.c
+    - 503-oldversion.c
+    - image.png
+    - image-1.png
+    - README.md
+
   - trabalho-1
     - 498.c
     - 498.diagonaltraverse.c
     - README.md
     - testedrmemory.c
+
   - simulado-trabalho-1
     - 860.lemonadechange.c
     - README.md
-  -trabalho-2
-    - 503.nextgreaterelementII.c
-    - 503-oldversion.c
-    - README.md
+  
 
 - arrays
   - 1.twosum.c

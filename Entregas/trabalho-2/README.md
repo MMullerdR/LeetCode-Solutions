@@ -20,5 +20,14 @@ Input: nums = [1,2,3,4,3]
 Output: [2,3,4,-1,4]
 
 ---
-## imagens do submit:
+## imagem do submit:
 
+![alt text](image.png)
+
+## imagem do valgrind: 
+
+![alt text](image-1.png)
+
+---
+
+Acredito que o algoritmo implementado no codigo seja O(n^2) devido ao uso de loops aninhados para percorrer o array. Ou seja, para cada elemento do array, o codigo precisa verificar todo o restante e se necessário (caso nao tenha encontrado até chegar ao fim dele) percorrer do inicio até a posição do elemento, o que resulta em uma complexidade quadrática. Já a memoria, a complexidade é O(n) pois o codigo utiliza um array de mesmo tamanho do input para armazenar os resultados, além de algumas variáveis auxiliares que nao dependem do tamanho do input. 
