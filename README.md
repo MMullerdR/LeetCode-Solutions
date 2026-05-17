@@ -18,6 +18,10 @@ As pastas estão divididas na seguinte forma:
   - simulado-trabalho-1
     - 860.lemonadechange.c
     - README.md
+  -trabalho-2
+    - 503.nextgreaterelementII.c
+    - 503-oldversion.c
+    - README.md
 
 - arrays
   - 1.twosum.c
