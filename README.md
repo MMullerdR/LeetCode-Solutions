@@ -47,6 +47,7 @@ As pastas estão divididas na seguinte forma:
 
 - binary-search
   - 35.searchinsertposition.c
+  - 167.twosumII.c
 
 - others
   - 29.dividetwointegers.c - attempted but not completed
