@@ -47,8 +47,11 @@ As pastas estão divididas na seguinte forma:
 
 - binary-search
   - 35.searchinsertposition.c
-  - 104.maximumdepthofbinarytree.c
   - 167.twosumII.c
+
+- trees
+  - 100.sametree.c
+  - 104.maximumdepthofbinarytree.c
 
 - others
   - 29.dividetwointegers.c - attempted but not completed
