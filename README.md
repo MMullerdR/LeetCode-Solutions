@@ -52,6 +52,7 @@ As pastas estão divididas na seguinte forma:
 - trees
   - 100.sametree.c
   - 104.maximumdepthofbinarytree.c
+  - 226.invertbinarytree.c
 
 - others
   - 29.dividetwointegers.c - attempted but not completed
