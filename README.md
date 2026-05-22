@@ -43,6 +43,7 @@ As pastas estão divididas na seguinte forma:
 
 - linked-list
   - 21.mergetwosortedlists.c
+  - 83.removeduplicatesfromsortedlist.c
   - 206.reverselinkedlist.c
 
 - binary-search
