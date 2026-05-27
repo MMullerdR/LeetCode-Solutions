@@ -40,6 +40,7 @@ As pastas estão divididas na seguinte forma:
   - 58.lengthoflastword.c
   - 125.validpalindrome.c
   - 796.rotatestring.c
+  - 3120.countthenumberofspecialcharactersI.c
 
 - linked-list
   - 21.mergetwosortedlists.c
