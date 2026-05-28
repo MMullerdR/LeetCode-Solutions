@@ -56,6 +56,7 @@ As pastas estão divididas na seguinte forma:
   - 104.maximumdepthofbinarytree.c
   - 110.balancedbinarytree.c
   - 226.invertbinarytree.c
+  - 700.searchinabinarysearchtree.c
 
 - others
   - 29.dividetwointegers.c - attempted but not completed
