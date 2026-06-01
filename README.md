@@ -52,6 +52,7 @@ As pastas estão divididas na seguinte forma:
   - 167.twosumII.c
 
 - trees
+  - 98.validatebinarysearchtree.c
   - 100.sametree.c
   - 104.maximumdepthofbinarytree.c
   - 110.balancedbinarytree.c
