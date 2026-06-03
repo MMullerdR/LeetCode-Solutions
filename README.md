@@ -59,6 +59,7 @@ As pastas estão divididas na seguinte forma:
   - 226.invertbinarytree.c
   - 700.searchinabinarysearchtree.c
   - 701.insertintoabinarysearchtree.c
+  - 236.lowestcommonancestorofabinarytree.c
 
 - others
   - 29.dividetwointegers.c - attempted but not completed
