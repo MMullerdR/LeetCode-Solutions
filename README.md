@@ -57,6 +57,7 @@ As pastas estão divididas na seguinte forma:
   - 104.maximumdepthofbinarytree.c
   - 110.balancedbinarytree.c
   - 226.invertbinarytree.c
+  - 450.deletenodeinabst.c
   - 700.searchinabinarysearchtree.c
   - 701.insertintoabinarysearchtree.c
   - 236.lowestcommonancestorofabinarytree.c
