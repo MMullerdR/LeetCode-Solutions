@@ -50,6 +50,7 @@ As pastas estão divididas na seguinte forma:
 - binary-search
   - 35.searchinsertposition.c
   - 167.twosumII.c
+  - 374.guessnumberhigherorlower.c
 
 - trees
   - 98.validatebinarysearchtree.c
