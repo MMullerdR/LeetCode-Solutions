@@ -5,6 +5,8 @@
 
 Parte do codigo foi dado em aula pelo professor
 
+---
+
 You are given an integer array nums of length n which represents a permutation of all the integers in the range [0, n - 1].
 
 The number of global inversions is the number of the different pairs (i, j) where:
@@ -16,8 +18,6 @@ The number of local inversions is the number of indices i where:
 0 <= i < n - 1
 nums[i] > nums[i + 1]
 Return true if the number of global inversions is equal to the number of local inversions.
-
- 
 
 Example 1:
 
@@ -40,4 +40,4 @@ All the integers of nums are unique.
 nums is a permutation of all the numbers in the range [0, n - 1].
 ---
 
-Acredito que o algoritmo implementado no codigo seja O(n^2) devido ao uso de loops aninhados para percorrer o array. Ou seja, para cada elemento do array, o codigo precisa verificar todo o restante e se necessário (caso nao tenha encontrado até chegar ao fim dele) percorrer do inicio até a posição do elemento, o que resulta em uma complexidade quadrática. Já a memoria, a complexidade é O(n) pois o codigo utiliza um array de mesmo tamanho do input para armazenar os resultados, além de algumas variáveis auxiliares que nao dependem do tamanho do input. 
+Acredito que o algoritmo implementado no código seja O(n log n) devido ao uso da árvore AVL para inserir e contar os elementos. Ou seja, para cada elemento do array, o código insere o valor na árvore e conta quantos valores já inseridos são maiores que ele, e como a árvore é balanceada, cada uma dessas duas operações desce apenas pela altura da árvore, que é log n, o que resulta em uma complexidade quase-linear. Já a memória, a complexidade é O(n) pois o código cria um nó na árvore para cada elemento do array, além de algumas variáveis auxiliares que não dependem do tamanho do input.
