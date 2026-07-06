@@ -41,3 +41,15 @@ nums is a permutation of all the numbers in the range [0, n - 1].
 ---
 
 Acredito que o algoritmo implementado no código seja O(n log n) devido ao uso da árvore AVL para inserir e contar os elementos. Ou seja, para cada elemento do array, o código insere o valor na árvore e conta quantos valores já inseridos são maiores que ele, e como a árvore é balanceada, cada uma dessas duas operações desce apenas pela altura da árvore, que é log n, o que resulta em uma complexidade quase-linear. Já a memória, a complexidade é O(n) pois o código cria um nó na árvore para cada elemento do array, além de algumas variáveis auxiliares que não dependem do tamanho do input.
+
+---
+## imagem do submit:
+
+![alt text](submit_775.png)
+
+## imagem do valgrind: 
+
+![alt text](valgrind_775.png)
+
+---
+
