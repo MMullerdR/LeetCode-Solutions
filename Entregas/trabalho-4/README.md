@@ -1,4 +1,4 @@
-# Trabalho 3 - 18. 4Sum
+# Trabalho 3 - leetcode 18: 4Sum
 # Miguel Muller da Rosa
 ## 25100780
 ---
