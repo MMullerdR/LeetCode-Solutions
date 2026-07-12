@@ -10,6 +10,23 @@ As pastas estão divididas na seguinte forma:
 
 ---
 - Entregas
+
+   -trabalho-4
+    -leetcode18.c
+    -leetcode18.exe
+    -leetcode18_antigo.c
+    -README.md
+    -submit_18.png
+    -valgrind_18.png
+
+  -trabalho-3
+    -AED_arvore.c
+    -AED_arvore.exe
+    -OLD_AED_arvore.c
+    -README.md
+    -submit_775.png
+    -valgrind_775.png
+
   -trabalho-2
     - 503.nextgreaterelementII.exe
     - 503.nextgreaterelementII.c
